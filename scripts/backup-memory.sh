@@ -1,23 +1,36 @@
 #!/bin/bash
-# Auto-backup memory to git
-# Run via cron or manually
+# Auto-backup memory: local snapshot + git push
+# Runs hourly via OpenClaw cron
 
-cd /home/azureuser/.openclaw/workspace
+set -e
+WORKSPACE="/home/azureuser/.openclaw/workspace"
+BACKUP_DIR="/home/azureuser/backups"
+DATE=$(date +%Y-%m-%d_%H%M)
 
-# Add all changes
+cd "$WORKSPACE"
+
+# 1. Local backup (tarball)
+mkdir -p "$BACKUP_DIR"
+tar -czf "$BACKUP_DIR/workspace-$DATE.tar.gz" \
+    --exclude='.git' \
+    --exclude='logs' \
+    --exclude='*.tar.gz' \
+    .
+
+# Keep only last 24 hourly backups
+ls -t "$BACKUP_DIR"/workspace-*.tar.gz 2>/dev/null | tail -n +25 | xargs -r rm
+
+echo "✓ Local backup: $BACKUP_DIR/workspace-$DATE.tar.gz"
+
+# 2. Git push
 git add -A
 
-# Check if there are changes to commit
 if git diff --cached --quiet; then
-    echo "No changes to commit"
-    exit 0
+    echo "✓ Git: no changes"
+else
+    git commit -m "Auto-backup: $DATE"
+    git push origin main 2>&1
+    echo "✓ Git: pushed to GitHub"
 fi
-
-# Commit with timestamp
-DATE=$(date +%Y-%m-%d_%H:%M)
-git commit -m "Auto-backup: $DATE"
-
-# Push to remote
-git push origin main 2>&1 || echo "Push failed - will retry later"
 
 echo "Backup complete: $DATE"
