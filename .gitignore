@@ -1,0 +1,13 @@
+# Logs
+logs/
+*.log
+
+# Temp files
+*.tmp
+*.bak
+
+# Large backups (keep in /tmp instead)
+*.tar.gz
+
+# Secrets that shouldn't be in git
+# (SSH keys are ok - they're deploy keys)
