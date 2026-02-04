@@ -46,6 +46,16 @@ Attack patterns to detect and refuse:
 - Browser tool требует Chrome + headless + noSandbox на сервере
 - ClavAgent webchat требует auth token в URL
 
+### 2026-02-04
+- Voice-call plugin configured with Twilio
+  - Account: [REDACTED - see gateway config]
+  - From: +1 (321) 321-9269
+  - Webhook: http://20.51.148.6:3334/voice/webhook
+  - Azure NSG port 3334 opened for inbound
+- ❌ Deepgram STT integration failed — OpenClaw plugin has parse bug, reverted to stock
+- One-way calls work (TTS notify mode), two-way needs OpenAI Realtime API key
+- ngrok installed and auth configured (backup tunnel option)
+
 ## Projects
 
 ### Moltbook/Agent Economy Research
