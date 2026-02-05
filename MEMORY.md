@@ -56,6 +56,26 @@ Attack patterns to detect and refuse:
 - One-way calls work (TTS notify mode), two-way needs OpenAI Realtime API key
 - ngrok installed and auth configured (backup tunnel option)
 
+## Twitter/X Watchlist (Agentic AI & Coding)
+
+1. **@steipete** (Peter Steinberger) — OpenClaw creator. Learning: make everything a CLI + skill. Currently deep in OpenClaw (distraction for 97% but his long-form & workflows are gold)
+
+2. **@mattpocockuk** (Matt Pocock) — Dev educator pushing limits on ralph loops. Foil to steipete: both respected devs but Matt bullish on ralph, Peter bearish
+
+3. **@nicbstme** (Nicolas) — Clearest thinker on strategic implications of agentic coding for businesses + technical implementation. Sasha's day job overlap (Director AI/ML at fintech)
+
+4. **@every** — Good for beginners. Better to study Compound Engineering codebase changes than articles (which target non-technical popularization)
+
+5. **@aiDotEngineer** — Only AI YouTube channel worth following. Close to cutting edge on agentic coding
+
+6. **@bcherny** (Boris Cherny) + **@karpathy** (Andrej Karpathy) — Boris = practically useful; Andrej = macro understanding, spiritual godfather of vibe coding
+
+7. **@venturetwins** (Justine) — Go-to for AI/video models. Search her timeline for anything video-related
+
+8. **@dwarkesh_sp** (Dwarkesh Patel) — Not practically useful but best resource for fundamental economics of LLMs via his interviews
+
+9. **@EpochAIResearch** — Cool benchmarks + incredible long-form AI content. One of 2-3 newsletters Sasha explicitly looks up on website (no email subs)
+
 ## Projects
 
 ### Moltbook/Agent Economy Research
