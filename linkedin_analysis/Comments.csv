@@ -1,0 +1,101 @@
+Date,Link,Message
+2026-01-28 07:09:44,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A7421622801901731840,Corgi Cafe
+2026-01-23 22:11:30,https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A7420483851522695169,"Ilya Kabanov  great breakdown. Quick ToS mapping: if a plugin is truly not scraping, it mostly avoids 8.2(2). But you are still in the risk zone if it does any of the following:
+- 8.2(13) automates actions or engagement (connect, message, like/comment/share, add or download contacts, redirect messages)
+- 8.2(15) overlays or modifies the UI/appearance (injects elements, removes/covers ads, etc.)
+- 8.2(14) framing/mirroring or simulating LI appearance/function
+- 8.2(3) bypassing access controls or use limits
+- 8.2(4) copying/using/distributing info obtained from LI without consent
+- 8.2(1) risky auth behavior (cookies, credentials, using another account)
+
+So “not scraping” is necessary, but not sufficient, if the extension touches automation or UI. Also agree with your point - scanning 5k extension IDs starts to look like fingerprinting at scale. 🤯"
+2026-01-22 06:08:54,https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A7419879985181634560,Great Founder Dashboard Matt Serna ! 👍
+2026-01-17 00:16:25,https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A7418022152265707520,"Amazing event! 👍 thanks for the invite, Matt Serna Ash Kumra !"
+2025-10-24 07:26:43,https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A7386976757125476352,Absolutely amazing event! Great speakers! Thank you Christy Bergman for inviting!
+2025-10-09 23:29:14,https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A7382068728978423808,Amazing panel and insights! Thank you!
+2025-09-16 02:06:15,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A7373377647780933632,Congrats!
+2025-06-21 05:05:52,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A7341471490434895872,"Thanks for sharing, Priscilla D'Oliveira"
+2025-05-30 05:25:42,https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A7333976258634010624,"Thank you, Matt Ridenour, for the totally awesome event — incredibly inspiring and energizing!"
+2025-05-06 21:27:31,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A7325510703274934273,PE Tech
+2025-04-24 21:31:13,https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A7320913673730826242,Great! See you there!
+2025-04-24 17:17:23,https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A7316961274569900032,"Really interesting take, Sheela Ursal. The slowdown in B2B payment adoption is spot on—so much potential, but still so much friction. Curious to see how the space evolves as more players focus on usability and trust."
+2025-04-16 23:51:32,https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A7318419670062055424,"See you soon, Pavel Vinitsky, PhD !"
+2025-04-08 04:55:08,https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A7315216793105485825,Congrats Matt! 🎉
+2025-03-25 20:37:42,https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A7307877557780037632,Congrats Sergey Filimonov  🔥
+2025-03-15 05:18:35,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A7305263032476045312,No Cap
+2025-03-07 00:09:18,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A7303418529444159491,Well-deserved! 🥯
+2025-02-26 22:23:07,https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A7299165066598273024,Let us know about your next Shabbat gatherings—we’d love to join!
+2025-01-18 03:51:06,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A7285720608636628992,"Congratulations Kirill Reznik, CPA!!!"
+2025-01-08 09:22:51,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A7282416307910676483,Congrats Keith!
+2024-07-25 00:42:52,https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A7222011716048445440,"Fantastic event and networking! Thank you, Sheela Ursal  so much for the invite! Would love to join next time!"
+2024-07-24 04:25:45,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A7221693640597798912,"Great presentation! Thank you, Ilya Kabanov !"
+2024-07-11 02:17:48,https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A7216152459277160449,Congrats Andy!
+2024-04-09 14:45:19,https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A7183259957088202753,Fantastic event! Great organization and insights. Looking forward to more!
+2024-04-09 14:36:34,https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A7183433792949272576,Congrats!
+2024-04-08 15:48:16,https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A7182801202022096897,Congrats!
+2024-03-26 01:29:54,https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A7177340081882497025,"It was amazing to meet you, Arjun Subedi!"
+2023-11-14 18:43:01,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A7130263553101463554,Congrats! 👍
+2023-07-10 22:07:00,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A7084287583412740096,Yes!
+2023-04-22 02:11:31,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A7054376492167774208,"Please share, thanks"
+2023-03-10 19:53:00,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A7040026902211784704,Congrats!
+2022-12-29 18:06:18,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A7009515467014815744,Congrats Meghan O'Keefe!
+2022-12-21 22:26:04,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A7011414273847394304,"So proud, 🔥  Arina Anapolskaya 🇺🇦 CashQ (ODX1) 🇺🇦 🔥"
+2022-11-29 19:20:47,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A7000830886367666176,See you there!
+2022-11-17 01:34:48,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6998657261527060480,"Congrats, Dheeraj \"Raj\" Singal ! 🚀"
+2022-11-11 20:31:35,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6996923627732357120,Thank you for a fantastic event!
+2022-11-10 23:33:23,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6996493916439019520,Impressive numbers like Mexico: 141% increase from 2022! But there missed China with Alipay and Weixen and Africa with Mobile Money.
+2022-11-01 16:41:12,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6993232511266934785,"Congrats, Israel I. Hernandez !🚀"
+2022-11-01 14:45:52,https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A6992894508594003968,Very interesting!
+2022-10-27 04:53:50,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6991092562040078336,"Israel I. Hernandez Waiting for my flight in LAS.✈️. DM, you tomorrow."
+2022-10-27 04:49:43,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6991150424380555264,We have a lot of innovations in local payments but a lack of interconnections between.
+2022-10-26 20:50:15,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6991092562040078336,"Congrats, Israel I. Hernandez! Well deserved!🚀"
+2022-09-27 22:14:30,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6980636082849685504,See you there Frank Quinones!
+2022-09-22 18:05:04,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6978709839216525313,See you Brian Luciani there!
+2022-09-21 23:52:59,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6976288572521791489,Amazing! See you guys soon!
+2022-08-22 15:56:27,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6967468346690732032,Congrats Ana Paula González!
+2022-08-03 20:25:29,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6958854211723808768,"Congratulations, Sérgio Terentev 🇺🇦!"
+2022-07-27 20:16:28,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6957698631692894209,"Congrats, Rex Salisbury!"
+2022-07-19 18:00:15,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6955208862824050688,"Love this concept of application-less products/embedded with all operations directly from the messenger like payments, bnpl, remittance, loans, etc. Hope soon will be able to get a new car lease in chat directly from manufacturing)"
+2022-07-19 17:45:44,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6955195125740253184,Congratulations Raj K
+2022-07-08 17:00:23,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6950971779716698112,"Thank you, Ilya Kabanov !"
+2022-05-19 19:31:52,https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A6933053720754606080,Thank you for a great event!
+2022-05-17 18:09:51,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6932112674017140736,Great trend! Building x-border rails for that!
+2022-04-19 02:05:57,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6921905344159916032,Assel Beglinova
+2022-04-18 20:40:15,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6921828983089053697,"Thank you for your support, Steven MacDonald !"
+2022-04-06 18:08:03,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6917215979462647808,Congrats Lorenzo Delzoppo !
+2021-12-02 20:13:55,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6872001187995099137,"Congrats, Carey Ransom!!!"
+2021-10-22 15:06:02,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6856898649788604416,"Congrats, Carey Ransom !!!"
+2021-09-24 20:15:47,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6847213480421023745,Great interview!
+2021-09-23 18:35:14,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6846827843176005632,Congrats!
+2021-09-17 00:49:15,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6844380073961771009,"Thank you, man! Appreciate it!"
+2021-08-11 15:16:06,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6830950796323028992,Congrats!
+2021-08-07 05:17:36,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6828786141429284864,Congratulations Cesi!!!
+2021-08-05 01:49:07,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6828732166327873536,Congrats Dave Wright !
+2021-04-07 15:57:20,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6785286581545689088,Congratulations!
+2020-04-15 19:26:41,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6655848969391919105,Congrats!
+2020-03-27 22:46:22,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6649308416646926336,CashQ Remittance ATM - free instant International Money Transfer to Eastern European bank cards.
+2020-02-29 22:05:38,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6638815822213103616,They have to find out how to serve unbanked. The remittance market still cash.
+2020-02-26 03:03:10,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6637709155790651392,https://www.wsj.com/articles/cash-may-not-be-king-but-its-still-royalty-11580466602
+2020-02-26 02:47:55,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6637966559736279040,Arina Anapolskaya
+2020-01-14 17:15:30,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6622643804228902912,Thank you!
+2020-01-14 03:20:16,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6622643804228902912,Thank you!
+2020-01-14 00:44:25,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6622612951549427712,Thank you👍
+2019-10-03 22:37:00,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6585642068855582720,Congrats!
+2019-10-02 20:24:51,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6585136584679571457,Congratulations!
+2019-06-20 20:30:51,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6546616181107814401,Congrats Arina
+2019-01-18 19:36:21,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6491417837691904000,Congrats!
+2018-09-13 04:43:30,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6444744826096222208,Congrats Charles
+2018-01-19 21:50:12,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6359765600981565440,Thank you Frank!
+2018-01-19 21:50:01,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6359765600981565440,Thank you Percy!
+2018-01-19 21:48:35,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6359765600981565440,Thank you Edinam!
+2018-01-19 21:48:00,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6359765600981565440,"Thank you, Charmaine!"
+2017-09-01 15:31:36,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6309002960915435520,Congrats!
+2017-08-16 02:37:56,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6303254588489371648,Congrats !
+2017-07-28 02:55:32,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6296472077721567232,Congrats!
+2017-06-05 03:24:59,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6277225349801746432,Touch4Pay is the best alternative!
+2017-03-10 00:59:58,https://www.linkedin.com/feed/update/urn%3Ali%3Aarticle%3A8028415311374256743,Congrats !
+2014-09-02 16:04:40,https://www.linkedin.com/feed/update/urn%3Ali%3AgroupPost%3A123922-5911226087769145344,"Question is: where is \"last mile\" between wallets and cash ? Auditory is 80 mln people unbanked and underbanking"
+2014-06-07 16:49:27,https://www.linkedin.com/feed/update/urn%3Ali%3AgroupPost%3A2292583-5880899831026704386,"Hello,
+are interest for investment in US and Zambia ? Micropayments business.
+Alexander Voronovich 
+e-mail   :  a.voronovich@touch4pay.com"

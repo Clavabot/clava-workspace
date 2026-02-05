@@ -1,0 +1,71 @@
+First Name,Last Name,Billing Country,Postal Code,Transaction Made At,Payment Method Type,Invoice Number,Description,Tax Amount,Sub Total,Total Amount,Currency Code
+Alex,Voronovich,US,94108,01/08/26 12:00 AM UTC,CREDIT_CARD, -1,,0,119.99,119.99,USD
+Alex,Voronovich,US,94108,01/08/26 12:00 AM UTC,CREDIT_CARD, -1,,0,119.99,119.99,USD
+Alex,Voronovich,US,94108,11/06/25 12:00 AM UTC,CREDIT_CARD, -1,,0,30.0,30.0,USD
+Alex,Voronovich,US,94108,10/06/25 12:00 AM UTC,CREDIT_CARD, -1,,0,30.0,30.0,USD
+Alex,Voronovich,US,94108,09/06/25 12:00 AM UTC,CREDIT_CARD, -1,,0,30.0,30.0,USD
+Alex,Voronovich,US,94108,08/06/25 12:00 AM UTC,CREDIT_CARD, -1,,0,30.0,30.0,USD
+Alex,Voronovich,US,94108,04/15/25 12:00 AM UTC,CREDIT_CARD, -1,,0,17.5,17.5,USD
+Alex,Voronovich,US,94108,03/15/25 12:00 AM UTC,CREDIT_CARD, -1,,0,17.5,17.5,USD
+Alex,Voronovich,US,94108,02/15/25 12:00 AM UTC,CREDIT_CARD, -1,,0,17.5,17.5,USD
+Alex,Voronovich,US,94108,01/15/25 12:00 AM UTC,CREDIT_CARD, -1,,0,17.5,17.5,USD
+Alexander,Voronovich,us,32931,05/15/24 12:00 AM UTC,CREDIT_CARD,10204447834,Jobs recurring charges,0.0,12.0,12.0,USD
+Alexander,Voronovich,us,32931,05/13/24 12:00 AM UTC,CREDIT_CARD,10195415034,Jobs recurring charges,0.0,167.81,167.81,USD
+Alexander,Voronovich,us,32931,05/10/24 12:00 AM UTC,CREDIT_CARD,10189610034,Bundle of Business Plus subscription and LIL,4.64,39.64,39.64,USD
+Alexander,Voronovich,us,32931,04/10/24 12:00 AM UTC,CREDIT_CARD,10091583804,Bundle of Business Plus subscription and LIL,4.64,39.64,39.64,USD
+,,US,123290,02/11/24 12:00 AM UTC,IOS,9890950984,Bundle of Career subscription with Group and LIL,0.0,39.99,39.99,USD
+,,US,123290,01/11/24 12:00 AM UTC,IOS,9256132673,Bundle of Career subscription with Group and LIL,0.0,39.99,39.99,USD
+,,US,123290,10/02/23 12:00 AM UTC,IOS,9475264534,Bundle of Business Plus subscription and LIL,0.0,0.0,0.0,USD
+Alex,Voronovich ??,us,32931,03/17/23 12:00 AM UTC,CREDIT_CARD,8862671044,Bundle of Career subscription with Group and LIL,5.3,45.29,45.29,USD
+Alex,Voronovich ??,us,32931,02/17/23 12:00 AM UTC,CREDIT_CARD,8758404134,Bundle of Career subscription with Group and LIL,5.3,45.29,45.29,USD
+Alex,Voronovich ??,us,32931,01/17/23 12:00 AM UTC,CREDIT_CARD,8651161914,Bundle of Career subscription with Group and LIL,5.3,45.29,45.29,USD
+Alex,Voronovich ??,us,32931,12/17/22 12:00 AM UTC,CREDIT_CARD,8563557604,Bundle of Career subscription with Group and LIL,5.3,45.29,45.29,USD
+Alex,Voronovich ??,us,32931,11/17/22 12:00 AM UTC,CREDIT_CARD,8472878324,Bundle of Career subscription with Group and LIL,2.65,22.65,22.65,USD
+Alex,Voronovich ??,us,32931,10/17/22 12:00 AM UTC,CREDIT_CARD,8364558804,Bundle of Career subscription with Group and LIL,2.65,22.65,22.65,USD
+,,US,123290,06/11/21 12:00 AM UTC,IOS,6711078804,Bundle of Business Plus subscription and LIL,0.0,0.0,0.0,USD
+,,US,123290,05/15/20 12:00 AM UTC,IOS,5570271344,Bundle of Business Plus subscription and LIL,0.0,0.0,0.0,USD
+,,US,123290,02/24/19 12:00 AM UTC,IOS,4458667554,Bundle of Business Plus subscription and LIL,0.0,59.99,59.99,USD
+,,US,123290,01/24/19 12:00 AM UTC,IOS,4384984314,Bundle of Business Plus subscription and LIL,0.0,0.0,0.0,USD
+,,US,123290,03/23/18 12:00 AM UTC,IOS,3721670474,Bundle of Business Plus subscription and LIL,0.0,59.99,59.99,USD
+,,US,123290,06/18/17 12:00 AM UTC,IOS,3288364544,Bundle of Business Plus subscription and LIL,0.0,0.0,0.0,USD
+Alexander,Voronovich,us,33009,03/11/17 12:00 AM UTC,CREDIT_CARD,3164721944,Business Plus subscription,0.0,59.99,59.99,USD
+Alexander,Voronovich,us,33009,02/11/17 12:00 AM UTC,CREDIT_CARD,3131294164,Business Plus subscription,0.0,59.99,59.99,USD
+Alexander,Voronovich,us,33009,01/11/17 12:00 AM UTC,CREDIT_CARD,3096037574,Business Plus subscription,0.0,59.99,59.99,USD
+Alexander,Voronovich,us,33009,12/11/16 12:00 AM UTC,CREDIT_CARD,3065994984,Business Plus subscription,0.0,59.99,59.99,USD
+Alexander,Voronovich,us,33009,11/11/16 12:00 AM UTC,CREDIT_CARD,3029077194,Business Plus subscription,0.0,59.99,59.99,USD
+Alexander,Voronovich,us,33009,10/11/16 12:00 AM UTC,CREDIT_CARD,2980986254,Business Plus subscription,0.0,59.99,59.99,USD
+Alexander,Voronovich,us,33009,09/11/16 12:00 AM UTC,CREDIT_CARD,2939933634,Business Plus subscription,0.0,59.99,59.99,USD
+Alexander,Voronovich,us,33009,08/11/16 12:00 AM UTC,CREDIT_CARD,2896783874,Business Plus subscription,0.0,59.99,59.99,USD
+Alexander,Voronovich,us,33009,07/11/16 12:00 AM UTC,CREDIT_CARD,2847630034,Business Plus subscription,0.0,59.99,59.99,USD
+Alexander,Voronovich,us,33009,06/11/16 12:00 AM UTC,CREDIT_CARD,2795206854,Business Plus subscription,0.0,59.99,59.99,USD
+Alexander,Voronovich,us,33009,05/11/16 12:00 AM UTC,CREDIT_CARD,2737684384,Business Plus subscription,0.0,59.99,59.99,USD
+Alexander,Voronovich,us,33009,04/11/16 12:00 AM UTC,CREDIT_CARD,2680871974,Business Plus subscription,0.0,59.99,59.99,USD
+Alexander,Voronovich,us,33009,03/11/16 12:00 AM UTC,CREDIT_CARD,2624126514,Business Plus subscription,0.0,59.99,59.99,USD
+Alexander,Voronovich,us,33009,02/11/16 12:00 AM UTC,CREDIT_CARD,2567146264,Business Plus subscription,0.0,59.99,59.99,USD
+Alexander,Voronovich,us,33009,01/11/16 12:00 AM UTC,CREDIT_CARD,2478498484,Business Plus subscription,0.0,59.99,59.99,USD
+Alexander,Voronovich,us,33009,12/11/15 12:00 AM UTC,CREDIT_CARD,2399874714,Business Plus subscription,0.0,59.99,59.99,USD
+Alexander,Voronovich,us,33009,11/11/15 12:00 AM UTC,CREDIT_CARD,2294033854,Business Plus subscription,0.0,59.99,59.99,USD
+Alexander,Voronovich,us,33009,10/11/15 12:00 AM UTC,CREDIT_CARD,2175385624,Business Plus subscription,0.0,59.99,59.99,USD
+Alexander,Voronovich,us,33009,09/14/15 12:00 AM UTC,CREDIT_CARD,3130390763,Business Plus subscription,0.0,59.99,59.99,USD
+Alexander,Voronovich,us,33009,08/11/15 12:00 AM UTC,CREDIT_CARD,3006305853,Business Plus subscription,0.0,59.99,59.99,USD
+Alexander,Voronovich,us,33009,07/11/15 12:00 AM UTC,CREDIT_CARD,2903280983,Business Plus subscription,0.0,59.99,59.99,USD
+Alexander,Voronovich,us,33009,06/11/15 12:00 AM UTC,CREDIT_CARD,2803308203,Business Plus subscription,0.0,59.99,59.99,USD
+Alexander,Voronovich,us,33009,05/11/15 12:00 AM UTC,CREDIT_CARD,2701613893,Business Plus subscription,0.0,59.99,59.99,USD
+Alexander,Voronovich,us,33009,04/11/15 12:00 AM UTC,CREDIT_CARD,2611023453,Business Plus subscription,0.0,59.99,59.99,USD
+Alexander,Voronovich,us,33009,03/11/15 12:00 AM UTC,CREDIT_CARD,2513766513,Business Plus subscription,0.0,59.99,59.99,USD
+Alexander,Voronovich,ru,123290,04/01/13 12:00 AM UTC,,65157400,Ads recurring charges,0.0,8.0,8.0,USD
+Alexander,Voronovich,ru,123290,03/26/13 12:00 AM UTC,,64548517,Ads recurring charges,0.0,92.05,92.05,USD
+Alexander,Voronovich,ru,123290,10/19/12 12:00 AM UTC,,48811569,Ads recurring charges,0.0,53.01,53.01,USD
+,,,,10/11/12 12:00 AM UTC,,48071520,Ads Post-pay Package,0.0,5.0,5.0,USD
+Alex,Voronovich,US,94108,01/08/26 05:41 AM UTC,CARD,105188997594,Refund for invoice: 101190671052 Sales Navigator Core,0.00, -119.99, -119.99,USD
+Alex,Voronovich,US,94108,01/08/26 02:34 AM UTC,CARD,101190671052,Sales Navigator Core,0.00,119.99,119.99,USD
+Alex,Voronovich,US,94108,12/06/25 11:40 PM UTC,CARD,109183052579,Sales Navigator Core,0.00,0.00,0.00,USD
+Alex,Voronovich,US,94108,11/06/25 11:19 PM UTC,CARD,101174914597,Sales Navigator Core,0.00,30.00,30.00,USD
+Alex,Voronovich,US,94108,10/06/25 11:19 PM UTC,CARD,101149865766,Sales Navigator Core,0.00,30.00,30.00,USD
+Alex,Voronovich,US,94108,09/06/25 11:18 PM UTC,CARD,101139174289,Sales Navigator Core,0.00,30.00,30.00,USD
+Alex,Voronovich,US,94108,08/06/25 11:18 PM UTC,CARD,109128755815,Sales Navigator Core,0.00,30.00,30.00,USD
+Alex,Voronovich,US,94108,04/15/25 08:00 AM UTC,CARD,10193001365,Premium Business,0.00,17.50,17.50,USD
+Alex,Voronovich,US,94108,03/15/25 08:00 AM UTC,CARD,10182988868,Premium Business,0.00,17.50,17.50,USD
+Alex,Voronovich,US,94108,02/15/25 08:00 AM UTC,CARD,10173330913,Premium Business,0.00,17.50,17.50,USD
+Alex,Voronovich,US,94108,01/15/25 08:00 AM UTC,CARD,10965010220,Premium Business,0.00,17.50,17.50,USD
+Alex,Voronovich,US,,10/07/24 07:46 PM UTC,IOS,10938941047,Sales Navigator Core,0.00,0.00,0.00,USD
